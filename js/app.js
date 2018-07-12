@@ -225,7 +225,7 @@ $(() => {
     }
 
     $.ajax({
-        url: 'questions'
+        url: 'db.json'
     }).done(function (data) {
         insertData(data);
         console.log(data);
