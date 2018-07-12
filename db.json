@@ -1,0 +1,410 @@
+{
+
+  "questions": [
+    {
+      "id": 1,
+      "name": "Wymień trzy filmy, w których grał Tom Hanks."
+    },
+    {
+      "id": 2,
+      "name": "Trzy rzeczy które możesz polizać"
+    },
+    {
+      "id": 3,
+      "name": "Wymień trzy rzeczy z nogami."
+    },
+    {
+      "id": 4,
+      "name": "Wymień trzy rzeczy które możesz znaleźć w siłowni."
+    },
+    {
+      "id": 5,
+      "name": "Wymień trzy filmowe adaptacje książek."
+    },
+    {
+      "id": 6,
+      "name": "Wymień trzy aktorki."
+    },
+    {
+      "id": 7,
+      "name": "Wymień trzech aktorów"
+    },
+    {
+      "id": 8,
+      "name": "Wymień trzy rzeczy aby się ogrzać w zimie"
+    },
+    {
+      "id": 9,
+      "name": "Wymień trzy rzeczy w twoim pokoju na literę 'T'"
+    },
+    {
+      "id": 10,
+      "name": "Wymień trzech sławnych mężczyzn z wąsem."
+    },
+    {
+      "id": 11,
+      "name": "Wymień trzy rasy psów"
+    },
+    {
+      "id": 12,
+      "name": "Wymień trzy rodzaje ryb"
+    },
+    {
+      "id": 13,
+      "name": "Wymień trzy rzeczy z kołami"
+    },
+    {
+      "id": 14,
+      "name": "Wymień trzech gospodarzy talk show"
+    },
+    {
+      "id": 15,
+      "name": "Wymień trzy zupy"
+    },
+    {
+      "id": 16,
+      "name": "Wymień trzy stany w USA"
+    },
+    {
+      "id": 17,
+      "name": "Wymień trzy różne wojny"
+    },
+    {
+      "id": 18,
+      "name": "Wymeń trzy piosenkarki"
+    },
+    {
+      "id": 19,
+      "name": "Wymień trzy kraje na literę 'C'."
+    },
+    {
+      "id": 20,
+      "name": "Trzy rzeczy które możesz wziąć na plażę."
+    },
+    {
+      "id": 21,
+      "name": "Wymień trzy drapieżne ptaki"
+    },
+    {
+      "id": 22,
+      "name": "Trzy drapieżne koty."
+    },
+    {
+      "id": 23,
+      "name": "Wymień trzy piosenki Justina Bibera."
+    },
+    {
+      "id": 24 ,
+      "name": "Wymień trzy horrory."
+    },
+    {
+      "id": 25 ,
+      "name": "Wymień trzy zwięrzęta które zaczynają się na literę 'A'"
+    },
+    {
+      "id": 26,
+      "name": "Wymień trzech członków The Avengers (Marvel)"
+    },
+    {
+      "id": 27,
+      "name": "Wymień trzy miejsca aby pojeździć na nartach."
+    },
+    {
+      "id": 28,
+      "name":" Wymień trzy miejsca gdzie można popływać."
+    },
+    {
+      "id": 29,
+      "name": "Wymień trzy typowe prezenty ślubne"
+    },
+    {
+      "id": 30,
+      "name": "Wymień trzy typowe prezenty ślubne "
+    },
+    {
+      "id": 31,
+      "name": "Trzy filmy o Harrym Poterze"
+    },
+    {
+      "id": 32,
+      "name": "Wymień 3 gry, w które możesz zagrać w kasynie."
+    },
+    {
+      "id":33,
+      "name": "Wymień 3 wynalazki XX wieku"
+    },
+    {
+      "id": 34 ,
+      "name": "Wymień 3 kamienie szlachetne"
+    },
+    {
+      "id":35,
+      "name": "Wymień 3 czcionki"
+
+    },
+    {
+      "id":36,
+      "name": "Wymień 3 filmy z udziałem Leonardo DiCaprio"
+    },
+    {
+      "id":37,
+      "name": "Wymień 3 blond aktorów"
+    },
+    {
+      "id":38,
+      "name": "Wymień 3 instrumenty większe od człowieka"
+    },
+    {
+      "id":39,
+      "name": "Wymień 3 znanych szefów kuchni"
+    },
+    {
+      "id":40,
+      "name": "Wymień 3 bryły geomatryczne"
+    },
+    {
+      "id":41,
+      "name": "Wymień 3 potrawy, których nigdy nie jadłeś"
+    },
+    {
+      "id":42,
+      "name": "Wymień 3 rzeczy, których nie lubisz robić"
+    },
+    {
+      "id":43,
+      "name": "Wymień 3 firmy produkujące czekoladę"
+    },
+    {
+      "id":44,
+      "name": "Wymień 3 ptaki nieloty"
+    },
+    {
+      "id":45,
+      "name": "Wymień 3 rzeczy, których się boisz "
+    },
+    {
+      "id":46,
+      "name": "Wymień 3 rzeczy, które ciężko wykonać jedną ręką"
+    },
+    {
+      "id":47,
+      "name": "Wymień 3 fikcyjne zwierzęta"
+    },
+    {
+      "id":48,
+      "name": "Wymień 3 rodzaje zmiennych w JS"
+    },
+    {
+      "id":49,
+      "name": "Wymień 3 komputerowe systemy operacyjne "
+    },
+    {
+      "id":50,
+      "name": "Wymień 3 akcesoria do makijażu "
+    },
+    {
+      "id":51,
+      "name": "Wymień 3 stanowiska w wojsku"
+    },
+    {
+      "id":52,
+      "name": "Wymień 3 partie polityczne"
+    },
+    {
+      "id":53,
+      "name": "Wymień 3 kraje europejskie, które nie należą do Unii Europejskiej "
+    },
+    {
+      "id":54,
+      "name": "Wymień 3 skróty klawiaturowe"
+    },
+    {
+      "id":55,
+      "name": "Wymień 3 blond aktorki"
+    },
+    {
+      "id":56,
+      "name": "Wymień 3 aktorki brunetki "
+    },
+    {
+      "id":57,
+      "name": "Wymień 3 znanych malarzy "
+    },
+    {
+      "id":58,
+      "name": "Wymień 3 pustynie"
+    },
+    {
+      "id":59,
+      "name": "Wymień 3 słowa kończące się na literę B "
+    },
+    {
+      "id":60,
+      "name": "Wymień 3 rasy psów "
+    },
+    {
+      "id":61,
+      "name": "Wymień 3 zdobywców Oskara"
+    },
+    {
+      "id":62,
+      "name": "Wymień 3 zdobywców nagrody Nobla "
+    },
+    {
+      "id":63,
+      "name": "Wymień 3 trylogie"
+    },
+    {
+      "id":64,
+      "name": "Wymień 3 konstelacje gwiazd "
+    },
+    {
+      "id":65,
+      "name": "Wymień 3 "
+    },
+    {
+      "id":66,
+      "name": "Wymień 3 bogów greckich "
+    },
+    {
+      "id":67,
+      "name": "Wymień 3 kraje zaczynające się na E"
+    },
+    {
+      "id":68,
+      "name": "Wymień 3 sposoby na zabicie czasu podczas stania w kolejce "
+    },
+    {
+      "id":69,
+      "name": "Wymień 3 rzeczy, które są miekkie "
+    },
+    {
+      "id":70,
+      "name": "Wymień 3 rzeczy, które są twarde "
+    },
+    {
+      "id":71,
+      "name": "Wymień 3 rzeczy, którymi się ćwiczy "
+    },
+    {
+      "id":72,
+      "name": "Wymień 3 rzeczy, gdzie można trzymać jedzenie "
+    },
+    {
+      "id":73,
+      "name": "Wymień 3 miejsca, gdzie nie ma drzew "
+    },
+    {
+      "id":74,
+      "name": "Wymień 3 planety "
+    },
+    {
+      "id":75,
+      "name": "Wymień 3 rzeczy, którymi można pisać "
+    },
+    {
+      "id":76,
+      "name": "Wymień 3 marki odzieży "
+    },
+    {
+      "id":77,
+      "name": "Wymień 3 rodzaje muzyki "
+    },
+    {
+      "id":78,
+      "name": "Wymień 3 trzy rośliny na literę 'B' "
+    },
+    {
+      "id":79,
+      "name": "Wymień 3 rzeczy, które dobrze jest mieć w podróży "
+    },
+    {
+      "id":80,
+      "name": "Wymień 3 rzeczy, które śmierdzą "
+    },
+    {
+      "id":81,
+      "name": "Wymień 3 zagranicznych piłkarzy "
+    },
+    {
+      "id":82,
+      "name": "Wymień 3 sławne psy "
+    },
+    {
+      "id":83,
+      "name": "Wymień 3 rzeczy, które są twarde "
+    },
+    {
+      "id":84,
+      "name": "Wymień 3 części komputerowe "
+    },
+    {
+      "id":85,
+      "name": "Wymień 3 rodzaje obuwia "
+    },
+    {
+      "id":86,
+      "name": "Wymień 3 pierwiastki "
+    },
+    {
+      "id":87,
+      "name": "Wymień 3 rzeczy, które robią hałas "
+    },
+    {
+      "id":88,
+      "name": "Wymień 3 szczyty górskie "
+    },
+    {
+      "id":89,
+      "name": "Wymień 3 rzeczy, które są gorące"
+    },
+    {
+      "id":90,
+      "name": "Wymień 3 filmy, w których grała Angelina Jolie "
+    },
+    {
+      "id":91,
+      "name": "Wymień 3 warzywa, które są czerwone "
+    },
+    {
+      "id":92,
+      "name": "Wymień 3 obecnych prezydentów  "
+    },
+    {
+      "id":93,
+      "name": "Wymień 3 języki programowania "
+    },
+    {
+      "id":94,
+      "name": "Wymień 3 polskie kluby piłkarskie "
+    },
+    {
+      "id":95,
+      "name": "Wymień 3 rzeczy, które można zrobić raz w życiu "
+    },
+    {
+      "id":96,
+      "name": "Wymień 3 miejsca gdzie można bezpiecznie schować pieniądze "
+    },
+    {
+      "id":97,
+      "name": "Wymień 3 rzeczy, którymi można pomalować ścianę "
+    },
+    {
+      "id":98,
+      "name": "Wymień 3 rzeczy, których nigdy być nie zrobił/a "
+    },
+    {
+      "id":99,
+      "name": "Wymień 3 portale społecznościowe "
+    },
+    {
+      "id":100,
+      "name": "Wymień 3 waluty "
+    }
+
+
+
+  ]
+
+}

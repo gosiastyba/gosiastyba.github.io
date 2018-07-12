@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>5 sekund</title>
+    <link rel="stylesheet" href="./css/main.css"/>
+</head>
+<body>
+<header>
+    5 sekund
+</header>
+
+<div class="playersScore"></div>
+
+<div class="firstSlider">
+
+    <form class="numberOfPlayers">
+        <p>Wpisz liczbę graczy:</p> <input class="quantity" type="number" min="2" max="10"><br>
+        <button id="firstInput" class="submit" type="submit"> Zatwierdź</button>
+    </form>
+</div>
+
+<div class="container">
+    <div class="players">
+        <form class="formPlayers">
+            <button id="secondInput" class="submit2" type="submit">Zatwierdź</button>
+
+        </form>
+    </div>
+    <div class="nameOfPlayers">
+        <button id="startGame">Zacznij grę !</button>
+        <div class="listOfPlayers"></div>
+
+    </div>
+
+    <div class="questions">
+
+        <span id="timer"></span>
+
+
+        <h3 class="correct">Czy odpowiedź prawidłowa?</h3>
+        <button id="yes">Tak</button>
+        <button id="no">Nie</button>
+
+        <button id="nextQuestion">Następne pytanie</button>
+
+    </div>
+
+</div>
+<div id="end" class="hidden">
+
+
+    <button id="gameOver">Zakończ</button>
+</div>
+
+<audio id="music" src="js/button-1.mp3" ></audio>
+<audio id="music2" src="js/376318__jimhancock__tada.wav" ></audio>
+
+
+
+<script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+<script src="./js/app.js"></script>
+</body>
+</html>
