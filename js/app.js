@@ -225,7 +225,7 @@ $(() => {
     }
 
     $.ajax({
-        url: 'http://localhost:3000/questions'
+        url: 'questions'
     }).done(function (data) {
         insertData(data);
         console.log(data);
